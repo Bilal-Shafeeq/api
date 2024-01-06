@@ -1,0 +1,76 @@
+{
+    "products": [
+      { 
+        "id": 123, 
+        "name": "Lux Soap", 
+        "price": "135", 
+        "image": "https://img.clevup.in/41802/1628688155088_SKU-0641_0.jpg?" 
+      },
+      { 
+        "id": 124, 
+        "name": "Dal Chana", 
+        "price": "200", 
+        "image": "https://omindianmarket.com/cdn/shop/products/toor-dal_cb5394a5-1f78-4dfe-bf55-93ac31639ffc.jpg?v=1599140129" 
+      },
+      { 
+        "id": 125, 
+        "name": "soap", 
+        "price": "135", 
+        "image": "https://img.clevup.in/41802/1628688155088_SKU-0641_0.jpg?" 
+      },
+      { 
+        "id": 126, 
+        "name": "National Murghi Masala", 
+        "price": "120", 
+        "image": "https://grozar.pk/wp-content/uploads/2020/02/National-Murghi-50g-600x600.jpg" 
+      },
+      { 
+        "id": 127, 
+        "name": "National Biryani Masala", 
+        "price": "125", 
+        "image": "https://media.naheed.pk/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/i/u/iu1119375-1.jpg" 
+      },
+      { 
+        "id": 128, 
+        "name": "Daal Mash", 
+        "price": "270", 
+        "image": "https://cookingorbit.pk/wp-content/uploads/2022/10/daal-mash-1kg-price-in-pakistan.jpg" 
+      },
+      { 
+        "id": 129, 
+        "name": "Desi Haldi", 
+        "price": "380", 
+        "image": "https://karachipansar.pk/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-05-at-12.27.00-PM-1.jpeg" 
+      },
+      { 
+        "id": 130, 
+        "name": "Treet Blades", 
+        "price": "90", 
+        "image": "https://grownmanshave.com/cdn/shop/products/TreetCarbonSteelDoubleEdgeRazorBlades_10Pack_1200x.jpg?v=1648663634" 
+      },
+      { 
+        "id": 131, 
+        "name": "Cherry Black Shoe Polish", 
+        "price": "465", 
+        "image": "https://cdnprod.mafretailproxy.com/sys-master-root/hc8/h61/27713881309214/38004_main.jpg_480Wx480H" 
+      },
+      { 
+        "id": 132, 
+        "name": "Cherry Brown Shoe Polish", 
+        "price": "465", 
+        "image": "https://cdnprod.mafretailproxy.com/sys-master-root/h52/h4c/27713881997342/38007_main.jpg_480Wx480H" 
+      },
+      { 
+        "id": 133, 
+        "name": "Fair & Lovely", 
+        "price": "110", 
+        "image": "https://guts.pk/wp-content/uploads/2023/07/cream-9.jpg" 
+      },
+      { 
+        "id": 134, 
+        "name": "Nestle Milk Powder", 
+        "price": "460", 
+        "image": "https://springs.com.pk/cdn/shop/files/8961008217000.jpg?v=1686382540" 
+      }
+    ]
+}
